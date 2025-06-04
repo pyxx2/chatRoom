@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8670727",
+      "name": "工作流",
+      "font_class": "gongzuoliu",
+      "unicode": "e542",
+      "unicode_decimal": 58690
+    },
+    {
+      "icon_id": "23055022",
+      "name": "生产计划",
+      "font_class": "tubiaozhizuomoban-140",
+      "unicode": "e50f",
+      "unicode_decimal": 58639
+    },
+    {
+      "icon_id": "24631816",
+      "name": "sql",
+      "font_class": "sql",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "39220599",
+      "name": "大模型-copy",
+      "font_class": "damoxing-copy",
+      "unicode": "e504",
+      "unicode_decimal": 58628
+    }
+  ]
+}
