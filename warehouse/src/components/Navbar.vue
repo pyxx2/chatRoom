@@ -2,7 +2,7 @@
     <!-- 原始导航栏，正常随页面滚动 -->
     <div id="navbar" ref="navbarRef" class="normal-navbar">
       <router-link to="/">首页</router-link>
-      <router-link to="/chatRoom">聊天室</router-link>
+      <router-link to="/chat">聊天室</router-link>
       <router-link to="/ai">与AI对话</router-link>
     </div>
 

@@ -13,6 +13,7 @@ declare module 'vue' {
     Huice: typeof import('./src/components/huice.vue')['default']
     Login: typeof import('./src/components/Login.vue')['default']
     Navbar: typeof import('./src/components/Navbar.vue')['default']
+    Roomlist: typeof import('./src/components/roomlist.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
     Sign: typeof import('./src/components/Sign.vue')['default']
